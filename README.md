@@ -1,5 +1,5 @@
 
-[![MasterHead](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtf1rVlZFz_9yg0u42H2x4f3kQn33HQ0Lvqkq9CljnWw&usqp=CAU&ec=48665698)
+[![MasterHead](https://wallpaper.dog/large/20567146.png)
 <h1 align="center">Hi 👋, I'm Sabhavath Yugandhar Naik</h1>
 <h3 align="center">A passionate frontend developer | Web developer | Full Stack developer</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB4GLc1hLQA_ubkhB4ESB7-C48rgMF2NzdY2niMoMnaetR-qGKlXx6SyMRtNGE_boliTNXAGE63yo&usqp=CAU&ec=48665698"
