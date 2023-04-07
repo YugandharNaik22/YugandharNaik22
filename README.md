@@ -1,5 +1,5 @@
 
-[![MasterHead]()
+
 <h1 align="center">Hi 👋, I'm Sabhavath Yugandhar Naik</h1>
 <h3 align="center">A passionate frontend developer | Web developer | Full Stack developer</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSB4GLc1hLQA_ubkhB4ESB7-C48rgMF2NzdY2niMoMnaetR-qGKlXx6SyMRtNGE_boliTNXAGE63yo&usqp=CAU&ec=48665698"
