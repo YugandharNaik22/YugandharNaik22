@@ -15,7 +15,7 @@
 - 📫 How to reach me **syugandharnayak8888@gmail.com** 🖤
 - ✨ Fun fact I am Funny😍
 
-- 📄 Know about my experiences [file:///C:/Users/Yugandhar%20Naik/Videos/Captures/Yugandhar_Naik.pdf](file:///C:/Users/Yugandhar%20Naik/Videos/Captures/Yugandhar_Naik.pdf)
+- 📄 Know about my experiences []()
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
