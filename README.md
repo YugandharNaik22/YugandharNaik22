@@ -6,22 +6,20 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yugandharnaik22&label=Profile%20views&color=0e75b6&style=flat" alt="yugandharnaik22" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Developer |SQL |Python | MERN** 🖤
+- 🌱 I’m currently learning **Full Stack Developer |SQL |Python | MERN**
 
-- 👨‍💻 All of my projects are available at [https://yugandharnaik.ccbp.tech/](https://yugandharnaik.ccbp.tech/) 🖤
+- 👨‍💻 All of my projects are available at [https://yugandharnaik.ccbp.tech/](https://yugandharnaik.ccbp.tech/)
 
-- 💬 Ask me about **Web developer, frontend developer, python, SQL, MERN** 🖤
+- 💬 Ask me about **Web developer, frontend developer, python, SQL, MERN**
 
-- 📫 How to reach me **syugandharnayak8888@gmail.com** 🖤
-- ✨ Fun fact I am Funny😍
-
-- 📄 Know about my experiences []()
+- 📫 How to reach me **syugandharnayak8888@gmail.com**
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/yugandharnaik sabhavath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yugandharnaik sabhavath" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/yugandhar-naik-sabhavath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yugandhar-naik-sabhavath" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/it_call_me_lucky/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/it_call_me_lucky/" height="30" width="40" /></a>
+<a href="https://twitter.com/balu42284020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="balu42284020" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/yugandhar-naik-sabhavath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yugandhar-naik-sabhavath" height="30" width="40" /></a>
+<a href="https://instagram.com/it_call_me_lucky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="it_call_me_lucky" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
