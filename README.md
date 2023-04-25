@@ -6,17 +6,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yugandharnaik22&label=Profile%20views&color=0e75b6&style=flat" alt="yugandharnaik22" /> </p>
 
-- 🌱 I’m currently learning FULL STACK DEVELOPER 🖤
+- 🌱 I’m currently learning Full Stack Developer 🖤
 
 - 😎 My First Project [Event Registration Form](https://registartion.ccbp.tech/)
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://yugandharnaik.ccbp.tech/)
+- 👨‍💻 All of my projects are available at [My Portfolio 🖤 ](https://yugandharnaik.ccbp.tech/)
 
 - 💬 Ask me about **Web Developer, Frontend Developer, Python, SQL, MERN**
 
 - 📫 How to reach me **syugandharnayak8888@gmail.com**
   
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1bsJwtXzEPSjKC1QVjD0I5WfB32Ti3C3d/view)
+- 📄 Know about my experiences [My Resume 🖤 ](https://drive.google.com/file/d/1bsJwtXzEPSjKC1QVjD0I5WfB32Ti3C3d/view)
 
 <h3 align="left">Connect with me ☎️:</h3>
 <p align="left">
