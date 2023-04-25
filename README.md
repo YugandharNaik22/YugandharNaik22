@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yugandharnaik22&label=Profile%20views&color=0e75b6&style=flat" alt="yugandharnaik22" /> </p>
 
-- 🌱 I’m currently learning **FULL STACK DEVELOPMENT😉 |SQL |Python | MERN**
+- 🌱 I’m currently learning FULL STACK DEVELOPER 🖤
 
 - 😎 My First Project [Event Registration Form](https://registartion.ccbp.tech/)
 
