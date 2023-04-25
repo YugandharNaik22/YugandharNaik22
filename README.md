@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **syugandharnayak8888@gmail.com**
   
-- 📄 Know about my experiences [My Resume]()
+- 📄 Know about my experiences [My Resume](https://drive.google.com/drive/u/0/my-drive)
 
 <h3 align="left">Connect with me ☎️:</h3>
 <p align="left">
