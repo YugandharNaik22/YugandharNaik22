@@ -8,9 +8,9 @@
 
 - 🌱 I’m currently learning **FULL STACK DEVELOPMENT😉 |SQL |Python | MERN**
 
-- 😎 My First Project [Event Registration Form](registartion.ccbp.tech)
+- 😎 My First Project [Event Registration Form](https://registartion.ccbp.tech/)
 
-- 👨‍💻 All of my projects are available at [My PortFolio](yugandharnaik1.ccbp.tech)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://yugandharnaik.ccbp.tech/)
 
 - 💬 Ask me about **Web Developer, Frontend Developer, Python, SQL, MERN**
 
