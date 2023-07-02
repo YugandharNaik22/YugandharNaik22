@@ -10,13 +10,13 @@
 
 - 😎 My First Project [Event Registration Form](https://registartion.ccbp.tech/)
 
-- 👨‍💻 All of my projects are available at [My Portfolio 🖤 ](https://yugandharnaik.ccbp.tech/)
+- 👨‍💻 All of my projects are available at [My Portfolio 🖤 ](https://keepitunique-65625.web.app/)
 
 - 💬 Ask me about **Web Developer, Frontend Developer, Python, SQL, MERN**
 
 - 📫 How to reach me **syugandharnayak8888@gmail.com**
   
-- 📄 Know about my experiences [My Resume 🖤 ](https://drive.google.com/file/d/1bsJwtXzEPSjKC1QVjD0I5WfB32Ti3C3d/view)
+- 📄 Know about my experiences [My Resume 🖤 ](https://drive.google.com/file/d/1r6WQP3Fbylkqfwj10P9H7CccUNb5xffu/view?usp=drive_link)
 
 <h3 align="left">Connect with me ☎️:</h3>
 <p align="left">
