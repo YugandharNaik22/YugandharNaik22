@@ -10,7 +10,7 @@
 
 - 😎 My First Project [Event Registration Form](https://registartion.ccbp.tech/)
 
-- 👨‍💻 All of my projects are available at [My Portfolio 🖤 ](https://keepitunique-65625.web.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio 🖤 ](https://keepitunique-41bdc.web.app/)
 
 - 💬 Ask me about **Web Developer, Frontend Developer, Python, SQL, MERN**
 
