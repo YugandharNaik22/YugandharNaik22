@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning Full Stack Developer 🖤
 
-- 😎 My First Project [Event Registration Form](https://registartion.ccbp.tech/)
+- 😎 My First Project [A Tribute Page](https://appreciation.ccbp.tech/)
 
 - 👨‍💻 All of my projects are available at [My Portfolio 🖤 ](https://keepitunique-41bdc.web.app/)
 
