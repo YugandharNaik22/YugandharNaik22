@@ -10,7 +10,7 @@
 
 - 😎 My First Project [A Tribute Page](https://appreciation.ccbp.tech/)
 
-- 👨‍💻 All of my projects are available at [My Portfolio 🖤 ](https://keepitunique-41bdc.web.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio 🖤 ](https://keep-it-unique.vercel.app/)
 
 - 💬 Ask me about **Web Developer, Frontend Developer, Python, SQL, MERN**
 
