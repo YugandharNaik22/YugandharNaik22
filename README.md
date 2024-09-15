@@ -10,13 +10,13 @@
 
 - 😎 My First Project [A Tribute Page](https://appreciation.ccbp.tech/)
 
-- 👨‍💻 All of my projects are available at [My Portfolio 🖤 ](https://keep-it-unique.vercel.app/)
+- 👨‍💻 All of my projects are available at [My Portfolio 🖤 ](https://about-blond.vercel.app/)
 
 - 💬 Ask me about **Web Developer, Frontend Developer, Python, SQL, MERN**
 
 - 📫 How to reach me **syugandharnayak8888@gmail.com**
   
-- 📄 Know about my experiences [My Resume 🖤 ](https://drive.google.com/file/d/1BTp1jNlw_4oyYZK1yvFadVc2Jbv5yXYV/view?usp=drive_link)
+- 📄 Know about my experiences [My Resume 🖤 ](https://drive.google.com/file/d/15YT3E3ipIVOIC2VgtAQJR1IOB8v3qikv/view?usp=sharing)
 
 <h3 align="left">Connect with me ☎️:</h3>
 <p align="left">
@@ -30,6 +30,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yugandharnaik22&show_icons=true&locale=en&layout=compact" alt="yugandharnaik22" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yugandharnaik22&show_icons=true&locale=en" alt="yugandharnaik22" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yugandharnaik22&" alt="yugandharnaik22" /></p>
