@@ -31,7 +31,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/balu42284020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="balu42284020" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/anji-naik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anji-naik" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mahesh-nayak-sabhavath/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anji-naik" height="30" width="40" /></a>
 <a href="https://instagram.com/its_calls_me_lucky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_calls_me_lucky" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/failures_to_fortunes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="failures_to_fortunes" height="30" width="40" /></a>
 </p>
