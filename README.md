@@ -11,7 +11,7 @@
 
 
 <p align="left"> <a href="https://twitter.com/balu42284020" target="blank"><img src="https://img.shields.io/twitter/follow/balu42284020?logo=twitter&style=for-the-badge" alt="balu42284020" /></a> </p>
-<p align="left"> <a href="https://www.linkedin.com/in/mahesh-nayak-sabhavath/" target="blank"> <img src="https://img.shields.io/badge/LinkedIn-Anji%20Naik-blue?logo=linkedin&style=for-the-badge" alt="Anji Naik LinkedIn" /</a 
+<p align="left"> <a href="https://www.linkedin.com/in/mahesh-nayak-sabhavath/" target="blank"> <img src="https://img.shields.io/badge/LinkedIn-Anji%20Naik-blue?logo=linkedin&style=for-the-badge" alt="Mahesh Nayak Sabhavath LinkedIn" /</a 
  </p>
 
 - 🌱 I’m currently learning **Full Stack Developer**
@@ -32,7 +32,7 @@
 <p align="left">
 <a href="https://twitter.com/balu42284020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="balu42284020" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/mahesh-nayak-sabhavath/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anji-naik" height="30" width="40" /></a>
-<a href="https://instagram.com/its_calls_me_lucky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_calls_me_lucky" height="30" width="40" /></a>
+<a href="https://www.instagram.com/yugandharnaik_yn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_calls_me_lucky" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/failures_to_fortunes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="failures_to_fortunes" height="30" width="40" /></a>
 </p>
 
