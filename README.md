@@ -11,7 +11,7 @@
 
 
 <p align="left"> <a href="https://twitter.com/balu42284020" target="blank"><img src="https://img.shields.io/twitter/follow/balu42284020?logo=twitter&style=for-the-badge" alt="balu42284020" /></a> </p>
-<p align="left"> <a href="https://www.linkedin.com/in/anji-naik/" target="blank"> <img src="https://img.shields.io/badge/LinkedIn-Anji%20Naik-blue?logo=linkedin&style=for-the-badge" alt="Anji Naik LinkedIn" /</a 
+<p align="left"> <a href="https://www.linkedin.com/in/mahesh-nayak-sabhavath/" target="blank"> <img src="https://img.shields.io/badge/LinkedIn-Anji%20Naik-blue?logo=linkedin&style=for-the-badge" alt="Anji Naik LinkedIn" /</a 
  </p>
 
 - 🌱 I’m currently learning **Full Stack Developer**
