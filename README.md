@@ -11,7 +11,7 @@
 
 
 <p align="left"> <a href="https://twitter.com/balu42284020" target="blank"><img src="https://img.shields.io/twitter/follow/balu42284020?logo=twitter&style=for-the-badge" alt="balu42284020" /></a> </p>
-<p align="left"> <a href="https://www.linkedin.com/in/mahesh-nayak-sabhavath/" target="blank"> <img src="https://img.shields.io/badge/LinkedIn-Anji%20Naik-blue?logo=linkedin&style=for-the-badge" alt="Mahesh Nayak Sabhavath LinkedIn" /</a 
+<p align="left"> <a href="https://www.linkedin.com/in/yugandhar-nayak-sabhavath/" target="blank"> <img src="https://img.shields.io/badge/LinkedIn-Anji%20Naik-blue?logo=linkedin&style=for-the-badge" alt="Yugandhar Nayak Sabhavath LinkedIn" /</a 
  </p>
 
 - 🌱 I’m currently learning **Full Stack Developer**
@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **syugandharnayak8888@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/15YT3E3ipIVOIC2VgtAQJR1IOB8v3qikv/view?usp=drive_link](https://drive.google.com/file/d/15YT3E3ipIVOIC2VgtAQJR1IOB8v3qikv/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1Dd4VNMBW5t_VEcfK6A9D-JrKP6EiupE8/view?usp=drive_link](https://drive.google.com/file/d/1Dd4VNMBW5t_VEcfK6A9D-JrKP6EiupE8/view?usp=drive_link)
 
 - ⚡ Fun fact **Your brain is constantly eating itself.**
 
