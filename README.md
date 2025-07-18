@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yugandhar Naik Sabhavath 🖤</h1>
 <h3 align="center">"Passionate Frontend Developer | Web Developer | Full Stack Developer | Enthusiastic about building dynamic, user-centric applications with a keen eye for design and performance."</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yugandharnaik22" alt="yugandharnaik22" /></a> </p>
 
 <img align="right" alt="Coding" width="400" src="https://images.squarespace-cdn.com/content/v1/64c911ae7388967e1679a000/4588e0ef-db34-4a80-895a-1fb0eb2e8e77/8e8e8bf3-9f3c-4b5b-9045-5ebb945e8aea.png" />
 
