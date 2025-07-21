@@ -31,7 +31,7 @@
 <p align="left">
 <a href="https://twitter.com/balu42284020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="balu42284020" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/mahesh-nayak-sabhavath/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anji-naik" height="30" width="40" /></a>
-<a href="https://www.instagram.com/yugandharnaik_yn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/yugandharnaik___/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/yugandharnaik___/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/yugandharnaik___/" height="30" width="40" /></a>
 
 </p>
 
